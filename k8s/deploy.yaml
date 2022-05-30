@@ -28,7 +28,7 @@ spec:
         app: ctse-lab-10
     spec:
       containers:
-      - image: upulka/ctse-lab-10:69e5897d8bc73a456c86ca903067a7088be044d1
+      - image: upulka/ctse-lab-10
         imagePullPolicy: Always
         name: ctse-lab-10
         resources: {}
